@@ -115,3 +115,10 @@ String dbPassword = "본인 비밀번호";
 ```
 http://localhost:8080/JSPBook/main.jsp
 ```
+## 📚 참고 자료
+- [나동빈 JSP 게시판 웹 사이트 만들기](https://www.youtube.com/watch?v=wEIBDHfoMBg&list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6)
+
+## 🎯 프로젝트 목적
+- 코딩 감각 회복 및 JSP 기초 복습
+- Bootstrap을 활용한 웹 개발 실습
+- Java, JSP, MySQL 연동 복습
