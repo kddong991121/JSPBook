@@ -1,0 +1,12 @@
+# DB 접속 정보가 담긴 파일
+src/main/java/user/UserDAO.java
+src/main/java/bbs/BbsDAO.java
+
+# Eclipse 설정 파일
+.classpath
+.project
+.settings/
+
+# Build 폴더
+build/
+out/
